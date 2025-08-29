@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noam Kazav  
 
-🎓 I'm a second-year Computer Science student with a passion for **C++ development, Cyber Security, and problem solving**.  
+🎓 I'm a third-year Computer Science student with a passion for **C++ development, Cyber Security, and problem solving**.  
 💻 Skilled in **C++ (advanced)** and **C**, with **basic knowledge of Python**.  
 🔐 Currently exploring the field of **Cyber Security**, focusing on secure coding and system vulnerabilities.  
 🚀 Always curious, motivated, and eager to learn new technologies.  
